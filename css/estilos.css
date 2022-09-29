@@ -1,0 +1,37 @@
+body{
+    padding-top: 80px;
+}
+#foto1{
+    background: rgba(0, 0, 0, 0.4) url(../img/ba1.jpg) no-repeat;
+    background-blend-mode: darken;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;  
+}
+.letra{
+    font-size: medium;
+}
+.padd{
+   padding: 13rem 5rem 9rem 0 
+}
+.card{
+    width: 20rem;
+} 
+.boton{
+    padding: 0 .3rem;
+}
+.margen{
+    margin: 0 15rem;
+}
+.azul{
+    background-color: rgb(47, 88, 117);
+    padding: .8rem;
+}
+.verde{
+    background-color: rgb(150,201,62);
+}
+.bloque{
+    display:block;
+}
