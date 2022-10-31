@@ -2,7 +2,7 @@ body{
     padding-top: 80px;
 }
 #foto1{
-    background: rgba(0, 0, 0, 0.4) url(../img/ba1.jpg) no-repeat;
+    background: rgba(0, 0, 0, 0.6) url(../img/ba1.jpg) no-repeat;
     background-blend-mode: darken;
     display: table;
     height: 100%;
@@ -32,6 +32,7 @@ body{
 .verde{
     background-color: rgb(150,201,62);
 }
+
 .bloque{
     display:block;
 }

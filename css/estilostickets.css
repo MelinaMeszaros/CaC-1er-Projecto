@@ -1,0 +1,83 @@
+body{
+    padding-top: 80px;
+}
+
+.descuentos{ 
+    display: flex;
+    justify-content: center;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+.estu{
+    border: .1rem solid rgb(88, 186, 247);
+    padding: 1rem 1.7rem;
+    margin: 0rem 0.4rem;
+}
+.trai{
+    border: .1rem solid lightseagreen;
+    padding: 1rem 1.7rem;
+    
+}
+.jun{
+    border: .1rem solid rgb(245, 187, 14);
+    padding: 1rem 1.7rem;
+    margin: 0rem 0.4rem;
+}
+
+div.descuentos.desc h5,h6{
+    font-weight: 800;
+    padding: .7rem;
+}
+.p2{
+    font-size: smaller;
+    color: darkgray;
+}
+.form{
+    width: 54%;
+    margin: auto; 
+    
+}
+div.form p,h2{
+    text-align: center;
+    margin: 0;
+}
+.input{
+    margin-top: 1rem;
+}
+.input2{
+    margin-top: 0.4rem;
+    color: rgb(89, 89, 89);
+}
+.input3{
+    margin-top: 2rem;
+    background-color: lightblue;
+    border: none;
+    border-radius: .3rem;
+    text-align: left;
+    padding: 0.7rem 1rem;
+    color: rgb(50, 50, 149);
+    font-size: 0.9rem;
+}
+.input4{
+    display: flex;
+}
+.verde{
+    background-color: rgb(150, 201, 62);
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    padding: 0.4rem;
+    width: 50%;
+    margin: 2rem 0rem 1rem 0rem;
+}
+.verde:hover{
+    background-color: rgba(150, 201, 62, 0.604);
+}
+
+.azul{
+    background-color: rgb(47, 88, 117);
+    padding: .8rem;
+}
+.bloque{
+    display:block;
+}
